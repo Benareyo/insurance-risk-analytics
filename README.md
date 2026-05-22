@@ -1,6 +1,3 @@
-cd ~/Documents/insurance-risk-analytics
-
-cat << 'EOF' > README.md
 # 🚗 End-to-End Automotive Insurance Risk Analytics & Predictive Pricing
 ### AlphaCare Insurance Solutions (ACIS) — South African Portfolio Optimization Framework
 
