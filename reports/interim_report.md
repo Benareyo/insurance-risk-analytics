@@ -3,7 +3,6 @@
 
 **Author:** Quantitative Marketing Analytics Engineering Unit  
 **Submission Milestone:** Interim Evaluation — Sunday, 24 May 2026, 8:00 PM UTC  
-**Academic Steering Panel:** Kerod, Mahbubah, Feven  
 **Development Integrity Repository:** https://github.com/Benareyo/insurance-risk-analytics (Active Branch: main)
 
 ---
